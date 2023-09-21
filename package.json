@@ -1,7 +1,6 @@
 {
   "name": "luxuryhotel",
   "version": "0.1.0",
-  "homepage": "https://vero-a.github.io/Luxury-Western-Resort/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
@@ -49,7 +48,7 @@
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3"
   }
-  
+
 }
 
 
